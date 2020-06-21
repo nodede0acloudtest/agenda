@@ -1,0 +1,17 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "Agenda contactos personales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "agenda"
+  ],
+  "author": "José Manuel de la Haba Jiménez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
